@@ -1,0 +1,38 @@
+timestamp,query,response
+2026-05-27 01:10:51.033639,What is Sara's royalty status?,Sara's royalty status is **Processing**.
+2026-05-27 01:14:30.398032,What is Sara's royalty status?,Sara's royalty status is **Processing**.
+2026-05-27 01:15:47.657640,What is Sara's royalty status?,Processing
+2026-05-27 01:17:37.973816,What is john royalty status?,John's royalty status is **Paid**.
+2026-05-27 01:19:05.360575,What is john royalty status?,John’s royalty status is **Paid**.
+2026-05-27 01:19:42.509204,What is Sara's royalty status?,Sara’s royalty status is **Processing**.
+2026-05-27 01:20:53.505644,Is Sara's book live yet?,"No. Sara’s book, **“Whispers of Rain,”** is scheduled to go live on **2026‑06‑01**, which is after today’s date (2026‑05‑26)."
+2026-05-27 01:21:08.313659,What is John's royalty status?,John's royalty status is **Paid**.
+2026-05-27 01:21:18.148832,What is the ISBN for AI Dreams?,The ISBN for **AI Dreams** is **9780987654321**.
+2026-05-27 20:52:18.475581,Is my book live yet?,Escalating this query to a human support agent.
+2026-05-27 20:52:35.747154,sa,Escalating this query to a human support agent.
+2026-05-27 20:53:00.289287,What is Sara's royalty status?,Sara's royalty status is **Processing**.
+2026-05-27 20:54:55.680301,Is AI Dreams live yet?,"Yes, AI Dreams went live on 2026‑05‑20."
+2026-05-27 20:55:11.507377,What add-on services does Emily have?,"Emily has the following add‑on services:
+
+- Author Copies  
+- PR Package"
+2026-05-27 20:55:26.056311,When are royalty reports usually generated?,Escalating this query to a human support agent.
+2026-05-27 20:55:40.709991,Why is my payment delayed and I want refund immediately?,Escalating this query to a human support agent.
+2026-05-27 20:56:23.590816,What is Sara’s royalty status?,Sara’s royalty status is **Processing**.
+2026-05-27 20:56:36.738445,When are royalty reports generated?,Escalating this query to a human support agent.
+2026-05-27 20:56:56.237576,I want refund immediately,Escalating this query to a human support agent.
+2026-05-27 20:57:10.767970,When are royalty reports generated?,Escalating this query to a human support agent.
+2026-05-27 20:59:03.427592,What is john royalty status?,John's royalty status is **Paid**.
+2026-05-27 20:59:51.164832,Is my book live yet?,Escalating this query to a human support agent.
+2026-05-27 21:00:04.980890,What is Sara's royalty status?,Processing
+2026-05-27 21:00:18.394151,What is john royalty status?,Paid
+2026-05-27 21:01:57.410165,How long does it take for author copies to ship?,Escalating this query to a human support agent.
+2026-05-27 21:02:16.976986,When was Whispers of Rain submitted?,The final submission date for **Whispers of Rain** was **2026-05-01**.
+2026-05-27 21:12:39.181084,What is Sara's royalty status?,Processing
+2026-05-27 21:12:50.892974,What is john royalty status?,John's royalty status is **Paid**.
+2026-05-27 21:13:20.430628,when was whisper of rain submitted?,The manuscript for **“Whispers of Rain”** was submitted on **2026‑05‑01**.
+2026-05-27 21:13:51.240240,when are royalty report usually generated?,Escalating this query to a human support agent.
+2026-05-27 21:14:33.244097,why is my payment delayed and i want refund immediately?,Escalating this query to a human support agent.
+2026-05-27 21:21:21.774688,What is Sara's royalty status?,Processing
+2026-05-27 21:21:30.403068,What is john royalty status?,John's royalty status is **Paid**.
+2026-05-27 21:21:42.177510,why is my payment delayed and i want refund immediately?,Escalating this query to a human support agent.

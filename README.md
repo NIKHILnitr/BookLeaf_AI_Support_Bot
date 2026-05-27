@@ -16,6 +16,11 @@ AI-powered customer support bot for publishing workflows using Streamlit, Supaba
 
 ---
 
+## 🎥 Project Demo (Loom Video)
+👉 https://www.loom.com/share/49c2aaa6d8d946928902fc310150210f
+
+---
+
 ## 🏗️ Tech Stack
 
 - Python
